@@ -13,3 +13,13 @@ function y
 end
 
 bind \t\\ forward-char
+
+#set default editor to neovim
+set -x EDITOR /usr/bin/nvim
+
+# neofetch when fish starts
+neofetch | awk '{print "           " $0}'
+
+
+
+
