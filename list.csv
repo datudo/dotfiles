@@ -1,0 +1,12 @@
+file/dir,target_path
+fish,~/.config/fish
+ghostty,~/.config/ghostty
+htop,~/.config/htop
+neofetch,~/.config/neofetch
+nvim,~/.config/nvim
+obsidian,$VAULT_PATH/.obsidian
+yazi,~/.config/yazi
+zed,~/.config/zed
+npmrc,~/.npmrc
+zshrc,~/.zshrc
+gitconfig,~/.gitconfig

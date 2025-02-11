@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a568434c5de8268e",
+    "type": "split",
+    "children": [
+      {
+        "id": "be361ab0efdd87c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22be1a7451e382d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86af9cb97e9fb49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f0501949d0c045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788b04cc8407e987",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "db066007f350c547",
+    "type": "split",
+    "children": [
+      {
+        "id": "16821f94889378e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a50b696f502fbd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ee.digital/b0.architecture/introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "introduction 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "switcher:打开快速切换": false
+    }
+  },
+  "active": "b22be1a7451e382d",
+  "lastOpenFiles": [
+    "ee.digital/b0.architecture/introduction.md",
+    "ee.digital/b0.architecture/materials/数字设计和计算机体系结构.pdf.part",
+    "ee.digital/b0.architecture/assets/4556f80147577f5e5513153a60a3d0b9_MD5.jpeg",
+    "ee.digital/b0.architecture/assets/727378b6424f438463d45c7032da0e16_MD5.jpeg",
+    "Pasted image 20250207221835.png",
+    "Pasted image 20250207221105.png",
+    "ee.digital/b0.architecture/assets/9ef3ca5dd4426cb0830b0263ffe1a5be_MD5.jpeg",
+    "Pasted image 20250207180321.png"
+  ]
+}

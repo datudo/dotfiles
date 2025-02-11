@@ -21,5 +21,6 @@ require("lazy").setup({
   require("plugins.nvim-tree"),
   require("plugins.nvim-treesitter"),
   require("plugins.synthwave84"),
-  require("plugins.vim-table-mode")
+  require("plugins.vim-table-mode"),
+  require("plugins.toggleterm")
 })

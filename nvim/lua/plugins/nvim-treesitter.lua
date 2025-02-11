@@ -5,7 +5,7 @@ return {
     local configs = require("nvim-treesitter.configs")
 
     configs.setup({
-      ensure_installed = { "c", "cpp", "lua", "python", "markdown", "markdown_inline" }, -- 确保安装的语言解析器
+      ensure_installed = { "c", "cpp", "lua", "python", "markdown", "markdown_inline","csv","verilog" }, -- 确保安装的语言解析器
       sync_install = false, -- 是否同步安装
       highlight = {
         enable = true,
