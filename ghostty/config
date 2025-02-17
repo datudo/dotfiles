@@ -12,7 +12,7 @@ font-family = "PingFang SC"
 #font-family-bold =
 
 #shader
-#custom-shader = shaders/glow.glsl
+#custom-shader = shaders/starfield.glsl
 custom-shader-animation = always
 # cursor
 cursor-style = block

@@ -12,10 +12,14 @@ wrap = "no"
 pdf = [
     { run = 'okular "$0"', orphan = true, for = "unix"},
 ]
+wpp = [
+    { run = 'wpp "$0"', orphan = true, for = "unix"},
+]
 
 [open]
 prepend_rules = [
-    { mime = "application/pdf", use = "pdf"}
+    { mime = "application/pdf", use = "pdf"},
+    { mime = "application/pptx", use = "wpp"}
 ]
 
 
